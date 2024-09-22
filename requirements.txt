@@ -1,0 +1,6 @@
+
+PyGithub
+openai
+python-dotenv
+requests
+crewai-tools
